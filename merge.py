@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 11 15:44:55 2022
 
-@author: Tabriz
-"""
 
 # import pandas as pd
 # df = pd.read_csv("./BoardInfoNew.csv") 
