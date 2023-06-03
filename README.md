@@ -1,5 +1,5 @@
 # AI-Challange-Microtec
-Some of the files/programs we used in order to accomplish our task
+We studied how to use a statistical model to predict robustness of wooden boards based on infos got from logs. 
 
 1) The first prgram to be read is "joinFileProgram", it creates a dataset with all the boards, keeping the most important data: log-id, board-id and IP_MOR index
 2) The second program is read: it creates a dataset with all the logs data: density, eccentricty, ecc...
